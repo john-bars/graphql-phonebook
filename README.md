@@ -1,6 +1,6 @@
 # React + Vite
 
-> **Note:** This project was cloned from **Part 8 of the [Full Stack Open course](https://fullstackopen.com/en/) as a learning and testing exercise.  
+> **Disclaimer:** This project was cloned from **Part 8 of the [Fullstack Open course](https://fullstackopen.com/en/)** as a learning and testing exercise.  
 > It is based on the React + Vite template provided by the original authors.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
